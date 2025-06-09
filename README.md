@@ -17,3 +17,5 @@ Dataset telah dianotasi dalam format YOLO (bounding box dan label kelas), dan di
 link dataset : 
 https://www.kaggle.com/datasets/pkdarabi/medical-image-dataset-brain-tumor-detection
 
+## 📷 Contoh Hasil Deteksi
+![image](https://github.com/user-attachments/assets/506957a7-a865-4cc3-9384-90c496b88874)
